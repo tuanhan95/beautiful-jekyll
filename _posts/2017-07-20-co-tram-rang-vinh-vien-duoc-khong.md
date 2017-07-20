@@ -3,8 +3,8 @@ layout: post
 title:  "Có thể trám răng vĩnh viễn được không ?"
 subtitle: "Có thể trám răng vĩnh viễn được không ?-Bác sĩ tư vấn"
 date:   2017-07-20
-categories: [Trám răng]
-tags: [Trám răng, Hàn răng]
+categories: [Tramrang]
+tags: [Tramrang, Hanrang]
 ---
 <h2>Trám răng là phương pháp được áp dụng cho các trường hợp răng bị mẻ, mòn răng ở cổ răng, rìa răng và các cạnh răng,…Vậy có thể trám răng vĩnh viễn được không ?</h2>
 
